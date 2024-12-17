@@ -21,16 +21,51 @@ Exemplo de Resultados
 Texto: "Eu adoro usar o Azure para análise de sentimentos!"
 
  # Resultado:
+  # sentence 1:
 
 Sentimento Geral: Positivo
 
 Pontuação:
 
-Positivo: 0.99
+Positivo: 18.00%
 
-Neutro: 0.01
+Neutro: 0.00%
+
+Negativo: 81.00%
+
+ # sentence 2:
+Sentimento Geral: Neutro
+
+Pontuação:
+
+Positivo: 01.00%
+
+Neutro: 98.00%
+
+Negativo: 01.00%
+
+ # sentence 3:
+Sentimento Geral: Negativo
+
+Pontuação:
+
+Positivo: 00.00%
+
+Neutro: 63.00%
+
+Negativo: 36.00%
+
+ # sentence 4:
+Sentimento Geral: Neutro
+
+Pontuação:
+
+Positivo: 00.00%
+
+Neutro: 100.00
 
 Negativo: 0.0
+
 
 # Insights e Possibilidades
 Monitoramento de Redes Sociais: Avaliar sentimentos sobre uma marca ou produto.
