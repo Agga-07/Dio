@@ -23,11 +23,18 @@ Texto: "Eu adoro usar o Azure para análise de sentimentos!"
  # Resultado:
 
 Sentimento Geral: Positivo
+
 Pontuação:
+
 Positivo: 0.99
+
 Neutro: 0.01
+
 Negativo: 0.0
-Insights e Possibilidades
+
+# Insights e Possibilidades
 Monitoramento de Redes Sociais: Avaliar sentimentos sobre uma marca ou produto.
+
 Análise de Feedback: Classificar comentários de clientes em positivos ou negativos.
+
 Pesquisa de Mercado: Identificar sentimentos de consumidores em grandes volumes de dados textuais.
