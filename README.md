@@ -3,7 +3,7 @@
 
 Este projeto mostra como usar o Language Studio da Microsoft Azure AI para realizar análise de sentimentos em textos, identificando se são positivos, negativos ou neutros.
 
-Passos para Análise de Sentimentos
+# Passos para Análise de Sentimentos
 1. Acessar o Azure Language Studio
 Entre no Azure Language Studio e crie um recurso de análise de sentimentos.
 
@@ -20,7 +20,7 @@ Sentimentos por Sentença: Análise detalhada de cada sentença do texto.
 Exemplo de Resultados
 Texto: "Eu adoro usar o Azure para análise de sentimentos!"
 
-Resultado:
+ # Resultado:
 
 Sentimento Geral: Positivo
 Pontuação:
