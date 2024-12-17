@@ -21,55 +21,56 @@ Exemplo de Resultados
 Texto: "Eu adoro usar o Azure para análise de sentimentos!"
 
  # Resultado:
+ 
   # sentence 1:
 
-Sentimento Geral: Positivo
+ Sentimento Geral: Positivo
 
-Pontuação:
+ Pontuação:
 
-Positivo: 18.00%
+ Positivo: 18.00%
 
-Neutro: 0.00%
+ Neutro: 0.00%
 
-Negativo: 81.00%
+ Negativo: 81.00%
 
  # sentence 2:
-Sentimento Geral: Neutro
+ Sentimento Geral: Neutro
 
-Pontuação:
+ Pontuação:
 
-Positivo: 01.00%
+ Positivo: 01.00%
 
-Neutro: 98.00%
+ Neutro: 98.00%
 
-Negativo: 01.00%
+ Negativo: 01.00%
 
  # sentence 3:
-Sentimento Geral: Negativo
+ Sentimento Geral: Negativo
 
-Pontuação:
+ Pontuação:
 
-Positivo: 00.00%
+ Positivo: 00.00%
 
-Neutro: 63.00%
+ Neutro: 63.00%
 
-Negativo: 36.00%
+ Negativo: 36.00%
 
  # sentence 4:
-Sentimento Geral: Neutro
+ Sentimento Geral: Neutro
 
-Pontuação:
+ Pontuação:
 
-Positivo: 00.00%
+ Positivo: 00.00%
 
-Neutro: 100.00
+ Neutro: 100.00
 
-Negativo: 0.0
+ Negativo: 0.0
 
 
 # Insights e Possibilidades
-Monitoramento de Redes Sociais: Avaliar sentimentos sobre uma marca ou produto.
+ Monitoramento de Redes Sociais: Avaliar sentimentos sobre uma marca ou produto.
 
-Análise de Feedback: Classificar comentários de clientes em positivos ou negativos.
+ Análise de Feedback: Classificar comentários de clientes em positivos ou negativos.
 
-Pesquisa de Mercado: Identificar sentimentos de consumidores em grandes volumes de dados textuais.
+ Pesquisa de Mercado: Identificar sentimentos de consumidores em grandes volumes de dados textuais.
